@@ -1,0 +1,37 @@
+🚗 NO HESI  – My First CS50x Scratch Project
+
+Welcome to my Car Dodger project! This is my first project for the CS50x course, where I explored the basics of programming and game design using Scratch.
+
+In this game, you control a car and try to dodge incoming trucks. Each truck you successfully avoid increases your score, and the game gets progressively more challenging as the trucks move faster. If a truck collides with your car, the game ends.
+
+🕹️ How to Play
+
+Use the arrow keys 'W' and 'S' to switch your car between two lanes.
+
+Dodge the trucks that spawn from the right-hand side of the screen.
+
+Earn points for every truck you successfully avoid.
+
+Try to get the highest score possible!
+
+🎯 Key Concepts Explored
+
+Variables and Score Tracking: keeping track of the player’s score and collision state.
+
+Randomness: spawning trucks in one of two lanes randomly.
+
+Loops and Timing: using forever loops to move trucks smoothly and detect collisions.
+
+Conditionals: checking for collisions and when trucks go off-screen.
+
+Event Handling: starting the game and ending it using broadcasts.
+
+This project helped me understand the fundamentals of programming logic, event-driven design, and game mechanics, all within the visual Scratch environment.
+
+📝 Notes
+
+This project is saved as a .sb3 Scratch file — download it to play!
+
+More advanced versions in the future could include multiple lanes, different types of obstacles, or power-ups.
+
+Enjoy playing and learning with NO HESI! 🚦
